@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.sefglobal.githubleaderboad</groupId>
-    <artifactId>sef-github-leaderboard</artifactId>
+    <groupId>tk.yoshitha.githubleaderboad</groupId>
+    <artifactId>yoshitha-github-leaderboard</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
